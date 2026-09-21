@@ -2,6 +2,7 @@
 Purpose-built online pharmacy ecommerce platform with prescription management and inventory control — by Originate Soft Pvt Ltd
 # OSPL Medion — [Online Pharmacy Ecommerce Platform](https://originatesoft.com/ecommerce-software-solution/pharmacy-ecommerce-solution/) by Originate Soft
 <img width="3840" height="1564" alt="Image" src="https://github.com/user-attachments/assets/1ab50f79-3d40-491a-ba24-467abaffd1eb" />
+
 **OSPL Medion** is a purpose-built ecommerce platform for pharmacies, medical stores, and healthcare retailers that need a compliant, reliable, and fully operational online presence. Developed by **Originate Soft Pvt Ltd**, it covers everything a pharmacy business needs to sell online — prescription management, medicine catalogue, inventory control, order fulfilment, and customer health records — in one integrated system built specifically for how pharmacy retail works.
 
 ---
@@ -14,6 +15,7 @@ OSPL Medion was built from the ground up for pharmacy and healthcare retail — 
 
 ---
 <img width="3840" height="1564" alt="Image" src="https://github.com/user-attachments/assets/1ab50f79-3d40-491a-ba24-467abaffd1eb" />
+
 ## Core Features
 
 ### Medicine Catalogue & Product Management
@@ -73,6 +75,7 @@ OSPL Medion was built from the ground up for pharmacy and healthcare retail — 
 
 ---
 <img width="3840" height="1564" alt="Image" src="https://github.com/user-attachments/assets/1ab50f79-3d40-491a-ba24-467abaffd1eb" />
+
 ## Technology Stack
 
 | Layer | Technology |
